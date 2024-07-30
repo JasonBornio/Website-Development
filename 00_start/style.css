@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(278, 19%, 61%);
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+h3{
+    color: hsl(0, 0%, 28%);
+}
+.post{
+    background-color: rgb(218, 179, 179);
+    margin: 2em;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1em;
+    text-align: center;
+    
+}
+#bear-pic{
+    border: 5px solid rgb(85, 85, 85);
+    border-radius: 25px;
+}
+#title{
+    padding: 1em;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+section > header > h2{
+    margin: 1em;
+}
